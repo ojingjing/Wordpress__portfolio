@@ -13,4 +13,3 @@
 ![ecolesite](https://github.com/ojingjing/Ecole/assets/48702158/9bd153c7-1cc6-4d0c-9f51-d8c395fa6ab0)
 
 
-![wordpress-mobile](https://github.com/ojingjing/Ecole/assets/48702158/3afa2898-171b-4925-a888-0e1499e9e723)
