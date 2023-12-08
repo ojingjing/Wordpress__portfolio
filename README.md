@@ -7,9 +7,3 @@
 > 그렇게 썩 보기 좋은 디자인은 아닌거 같아서 디자인을 보완 해볼 생각이고 프로젝트 한것도 정리해서 채워넣고 기능도 조금더 추가해볼 생각이다.
 > ### 결과물    
 > 
-
-
-
-![ecolesite](https://github.com/ojingjing/Ecole/assets/48702158/9bd153c7-1cc6-4d0c-9f51-d8c395fa6ab0)
-
-
